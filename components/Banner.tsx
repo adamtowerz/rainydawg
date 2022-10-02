@@ -5,15 +5,7 @@ function Banner() {
   return (
     <div className={styles.banner}>
       <h2>Announcement</h2>
-      <p>
-        <a
-          href="https://forms.gle/f9P9kfv3hEsKstgD9"
-          target="_blank"
-          rel="noreferrer"
-        >
-          DJ application OPEN!
-        </a>
-      </p>
+      <p>DJ Applications are CLOSED!</p>
     </div>
   );
 }

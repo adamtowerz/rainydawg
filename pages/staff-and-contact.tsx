@@ -14,20 +14,20 @@ type StaffAndContactData = {
 
 const staff: StaffAndContactData[] = [
   {
-    name: "Max Bryla",
+    name: "Bella Lufshanowski",
     title: "General Manager",
-    photo: "/max.jpg",
+    photo: "/pengu.png",
     info1:
-      "Our fearless leader. Can probably handle any issue you throw at him.",
+      "Our fearless leader. Can probably handle any issue you throw at them!",
     info2: "Contact for general inquiries.",
     email: "asuwrdgm@uw.edu",
   },
   {
-    name: "Jules Travis",
+    name: "Naomi Zamarripa",
     title: "Assistant Manager",
-    photo: "/jules.jpg",
+    photo: "/pengu.png",
     info1:
-      "Our fearless leader. Can probably handle any issue you throw at him.",
+      "Our fearless leader. Can probably handle any issue you throw at her.",
     info2: "Contact for general inquiries.",
     email: "asuwrdam@uw.edu",
   },
@@ -36,13 +36,13 @@ const staff: StaffAndContactData[] = [
     title: "Music Director",
     photo: "/elliott.jpg",
     info1:
-      "The preTencious music guy with the opinions. Books shows and curates our rotation!",
+      "The preTencious music person with the opinions. Books shows and curates our rotation!",
     info2:
       "Contact for bookings, music submissions, and music library inquiries.",
     email: "asuwrdmd@uw.edu",
   },
   {
-    name: "Bella Lufschanowski",
+    name: "Emily Vaughan",
     title: "Promotions Coordinator",
     photo: "/pengu.png",
     info1: "information",
@@ -53,7 +53,7 @@ const staff: StaffAndContactData[] = [
     name: "Cooper Houston",
     title: "Technology Manager",
     photo: "/pengu.png",
-    info1: "*fuzz*",
+    info1: "*clipping and feedback*",
     info2: "Contact for studio, website, or general technology inquiries.",
     email: "asuwrdtm@uw.edu",
   },

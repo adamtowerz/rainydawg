@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import styles from "./Player.module.scss";
 
-const STREAM_SRC = "http://rainydawg.org:8000/stream";
+const STREAM_SRC = "http://166.62.119.4:8000/stream";
 
 function Player() {
   const [isPlaying, setIsPlaying] = useState(false);

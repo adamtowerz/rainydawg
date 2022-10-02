@@ -3,9 +3,13 @@ import Layout from "../components/Layout";
 
 const StudioRecordings: NextPage = () => {
   return (
-    <Layout title="Studio Recordings">
+    <Layout title="Studio Recordings & Stream">
       <h2>
-        <a href="https://drive.google.com/drive/folders/1yH__qFQq-LalBPwxsUGW5uHb5AwQaO0U">
+        <a href="https://drive.google.com/drive/folders/1yH__qFQq-LalBPwxsUGW5uHb5AwQaO0U"
+         
+         target="_blank"
+         rel="noreferrer"
+>
           Click here for the Google Drive of studio recordings*
         </a>
       </h2>

@@ -34,6 +34,13 @@ function NavDropdown() {
             </a>
           </li>
           <li>
+            <a href="http://166.62.119.4:8000/stream"
+            target="_blank"
+            rel="noreferrer"
+            >
+              Direct Stream Link</a>
+          </li>
+          <li>
             <Link href="/studio-recordings">Studio Recordings</Link>
           </li>
           <li>
